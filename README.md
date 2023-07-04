@@ -1,6 +1,6 @@
 # Desafio 6 - Implementación de login
-** LEIBLICH Ezequiel Gaston
-** Comisión 43345
+* LEIBLICH Ezequiel Gaston
+* Comisión 43345
 
 El proyecto consistió en ajustar nuestro servidor principal para trabajar con un sistema de login completo. Se realizaron todas las vistas necesarias, siguiendo las instrucciones del hands-on lab, para gestionar el registro y el login de los usuarios. Además, se implementaron las correspondientes rutas de router para procesar dichas acciones.
 
